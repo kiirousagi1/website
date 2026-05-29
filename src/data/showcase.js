@@ -5,6 +5,12 @@ export default [
         imageUrl: "https://animeflow.netlify.app/assets/flowchart_preview.min.png",
         url: "https://animeflow.netlify.app/",
     },
+	{
+        title: "LogMyHomie",
+        summary: "A Media Journaling website to track your books, movies, anime, games and much more",
+        imageUrl: "https://logmyhomie.com/logmyhomie-logo.png",
+        url: "https://logmyhomie.com/
+    },
     {
         title: "Animedia",
         summary: "Website made to test Vuejs",
