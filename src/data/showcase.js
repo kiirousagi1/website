@@ -587,4 +587,10 @@ export default [
       imageUrl: "https://sorai-app.vercel.app/images/preview.png",
       url: "https://sorai-app.vercel.app/"
     },
+	    {
+      title: "LogMyHomie",
+      summary: "Your Media journal to track, organize, and discover your books/manga/anime/movies/games and much more",
+      imageUrl: "https://logmyhomie.com/logmyhomie-logo.png",
+      url: "https://logmyhomie.com/"
+    },
 ]
